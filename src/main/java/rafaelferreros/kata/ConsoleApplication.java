@@ -4,6 +4,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import rafaelferreros.kata.services.ChessService;
+import rafaelferreros.kata.services.KataService;
 
 @SpringBootApplication
 public class ConsoleApplication implements CommandLineRunner {

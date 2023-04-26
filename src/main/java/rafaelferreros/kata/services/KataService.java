@@ -1,4 +1,4 @@
-package rafaelferreros.kata;
+package rafaelferreros.kata.services;
 
 import org.springframework.stereotype.Service;
 import rafaelferreros.kata.countcharacters.CountCharacters;
